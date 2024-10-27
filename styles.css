@@ -54,3 +54,14 @@ iframe {
     border: none; /* Remove bordas do iframe */
     border-radius: 10px; /* Cantos arredondados */
 }
+
+/* Estilo para o botão */
+.button {
+    background-color: #007BFF; /* Cor de fundo do botão */
+    color: white; /* Cor do texto */
+    padding: 15px 30px; /* Espaçamento interno do botão */
+    text-decoration: none; /* Remove sublinhado do link */
+    border-radius: 5px; /* Cantos arredondados */
+    font-size: 16px; /* Tamanho da fonte */
+    margin-top: 10px; /* Espaçamento acima do botão */
+    transition: background-color 
