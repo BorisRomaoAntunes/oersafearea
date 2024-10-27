@@ -15,7 +15,7 @@ header {
 
 .logo {
     width: 150px; /* Tamanho do logotipo */
-    border-radius: 10px; /* Cantos arredondados */
+    border-radius: 0px; /* Cantos arredondados */
 }
 
 h1 {
