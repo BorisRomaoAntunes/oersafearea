@@ -7,7 +7,7 @@ Este é o repositório para o site **OERSafeArea**, que apresenta uma prévia da
 - Link para abrir o PDF completo em tela cheia.
 
 ## Como Usar
-1. Acesse o site em [oersafearea.com](https://oersafearea.com).
+1. Acesse o site em [oersafearea.com]([https://oersafearea.com](https://borisromaoantunes.github.io/oersafearea/)).
 2. Visualize a prévia da agenda no próprio site.
 3. Clique no link para baixar ou abrir a versão completa.
 
